@@ -1,4 +1,4 @@
-package com.wong;
+package com.wong.cool;
 
 public class HeapDemo {
 
