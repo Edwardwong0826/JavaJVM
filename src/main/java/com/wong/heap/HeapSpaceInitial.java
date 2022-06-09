@@ -1,4 +1,4 @@
-package com.wong.cool;
+package com.wong.heap;
 
 /**
  *  command to set heap size

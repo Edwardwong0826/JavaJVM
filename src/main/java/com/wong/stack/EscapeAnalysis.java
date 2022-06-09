@@ -1,4 +1,4 @@
-package com.wong.feature;
+package com.wong.stack;
 
 /**
  *  check escape analysis by new object instance is it possible use by outside scope or method

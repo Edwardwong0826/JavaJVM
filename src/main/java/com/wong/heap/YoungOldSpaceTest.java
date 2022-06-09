@@ -1,4 +1,4 @@
-package com.wong.cool;
+package com.wong.heap;
 
 /**
  * -Xms60m -Xmx60m -XX:NewRatio=2 -XX:SurvivorRatio=8 -XX:+PrintGCDetails

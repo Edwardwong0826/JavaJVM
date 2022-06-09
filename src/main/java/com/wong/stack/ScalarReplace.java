@@ -1,4 +1,4 @@
-package com.wong.feature;
+package com.wong.stack;
 
 /**
  *  Java object is aggregate, primitive data is scalar, means those can decompose call aggregate

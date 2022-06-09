@@ -1,4 +1,4 @@
-package com.wong.feature;
+package com.wong.stack;
 
 /**
  * -Xmx1G -Xms1G -XX:+DoEscapeAnalysis -XX:+PrintGCDetails

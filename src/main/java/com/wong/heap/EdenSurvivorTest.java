@@ -1,4 +1,4 @@
-package com.wong.cool;
+package com.wong.heap;
 
 /**
  *  -xx:NewRatio: set new generation and old generation ratio, default value is 2
