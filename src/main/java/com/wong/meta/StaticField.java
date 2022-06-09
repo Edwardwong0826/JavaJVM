@@ -2,6 +2,7 @@ package com.wong.meta;
 
 /**
  * static reference new object instance always in heap
+ * static variable stored in Class object,class object in class loading phase (loading,linking) created
  */
 public class StaticField {
 

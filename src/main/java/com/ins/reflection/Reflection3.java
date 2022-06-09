@@ -6,6 +6,7 @@ public class Reflection3 {
 
 
     public static void main(String[] args) {
+        // new will be call <init>() method
         A a = new A();
         System.out.println(A.m);
         System.out.println(a.testLocalVariable());
@@ -29,6 +30,7 @@ class A{
     // static variable value init related to the order
     // static variable stored in metaspace, in linking phase prepare default value
     // and in init phase <clinit>() method assign the value given
+    // clinit like class construtor
 
     static{
         System.out.println("class a static initializer init");

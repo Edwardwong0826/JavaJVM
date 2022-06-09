@@ -5,7 +5,12 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
+// way of create object
+// new（）
 // create object dynamically by reflection
+// use clone(), class need to implements Cloneable interface Clone method
+// deserialize - from file or network get object binary stream
+
 public class Reflection6 {
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, InstantiationException, IllegalAccessException, NoSuchFieldException {
 
