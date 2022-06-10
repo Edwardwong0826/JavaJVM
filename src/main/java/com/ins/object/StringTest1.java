@@ -4,7 +4,7 @@ public class StringTest1 {
 
     public void test(){
 
-        // during compilation,JVM will optimise to abc directly if literally not variable
+        // during compilation,JVM will optimise to abc directly if literally declaration not variable
         // can decompile the .class file to see
         String s1 = "a" + "b" + "c";
         String s2 = "abc";
