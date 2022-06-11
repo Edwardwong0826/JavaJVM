@@ -7,6 +7,11 @@ package com.wong.heap;
  *  -Xmn: set new generation space
  *  -XX:HandlePromotionFailure will always true after jdk 7
  *  -XX:+PrintEscapeAnalysis
+ *  -XX:+PrintCommandLineFlags - check current jdk GC version and type
+ *   or in cmd type
+ *   jps
+ *   jinfo -flag UseParallelGC <pid>
+ *
  */
 public class EdenSurvivorTest {
 
