@@ -15,7 +15,7 @@ public class Reflection1{
         // use reflection to get class object in JVM
         // a class will only have one class object in JVM
         // JVM in metaspace construct class template object, according this template object instantiate one class instance in heap
-        // once a class being loaded, entire class structure will 封装in class object
+        // once a class being loaded, entire class structure will 封装 in class object
         // in object monitor, the Klasspointer will point to class object that belongs
 
         // method 1: through object to get class object
